@@ -6,8 +6,8 @@ Soy un desarrollador apasionado por crear soluciones integrales, desde plataform
 
 ### 🚀 Sobre Mí
 
-- 🎓 **Educación:** Egresado de Ingeniería de Sistemas con un Diplomado en DevOps Essentials. Actualmente cursando una Maestría en Ciencia de Datos e Inteligencia Artificial.
-- 💼 **Actualidad:** Trabajo como Gestor de Innovación Tecnológica y Soporte en Urbanor S.A.
+- 🎓 **Educación:** Titulado en Ingeniería de Sistemas y con un Diplomado finalizado en DevOps Essentials. Actualmente cursando una Maestría en Ciencia de Datos e Inteligencia Artificial.
+- 💼 **Actualidad:** Trabajo como Gestor de Innovación Tecnológica y Soporte.
 - 🧠 **AI & Cloud Mindset:** Utilizo la Inteligencia Artificial como un copiloto para agilizar el desarrollo, enfocándome en dominar la lógica detrás del código. Además, integro servicios Cloud y APIs de terceros para potenciar mis aplicaciones.
 
 ### 🛠️ Tech Stack & Tools
@@ -36,11 +36,15 @@ Soy un desarrollador apasionado por crear soluciones integrales, desde plataform
 
 ### 🔭 Proyectos Destacados
 
-- 📊 **Plataforma Financiera (Multitenant):** Aplicación web para la gestión integral de finanzas personales y control de gastos[cite: 7, 9]. Permite a los usuarios registrar múltiples cuentas bancarias reales (como Banco Mercantil, Banco Ganadero, BCP, etc.)[cite: 8], gestionar gastos fijos mensuales[cite: 10] y visualizar reportes detallados y gráficos estadísticos de sus ingresos y egresos[cite: 11, 12]. *Stack: Angular, NestJS, Prisma, PostgreSQL.*
-- 🍯 **Tsimane - E-commerce & Landing Page:** Plataforma web para la venta de miel de abeja 100% pura de la Amazonía boliviana[cite: 3]. Incluye catálogo de productos, carrito de compras[cite: 5] y una sección detallada sobre el proceso de recolección artesanal[cite: 4, 6]. Cuenta con una integración de **Google Maps** para visualizar los puntos de venta físicos, permitiendo a los clientes encontrar la tienda más cercana y obtener rutas de navegación.
-- 🔐 **Gmail Code Extractor:** Herramienta web diseñada para consultar y extraer códigos de verificación de correos específicos de Gmail. Mediante un sistema de códigos de acceso y filtros por remitente o asunto, los usuarios pueden obtener sus códigos de autenticación sin necesidad de ingresar a la bandeja de entrada completa, protegiendo la privacidad de la cuenta. Integrado con servicios de **Google AI / Auth**.
-- 💬 **WhatsApp CRM (Iris):** Bot omnicanal de cobranzas automatizado. Construido bajo una arquitectura de microservicios con NestJS, integrado de forma nativa con la **API de WhatsApp (Meta)** y Zoho CRM.
-- 🚀 **StreamingRC:** Plataforma en producción para la gestión y venta de accesos a servicios de streaming, enfocada en la escalabilidad y automatización.
+- 🚀 **StreamingRC - E-commerce & Automations:** Plataforma e-commerce completa en producción para la gestión y venta de perfiles de streaming. Va más allá de las ventas al incluir carrito, sistema de cupones, reportes y reposición por downtime. Destaca por su alta automatización: generación y validación de pagos QR en tiempo real (vía Veripago), envío automático de credenciales por correo electrónico, alertas de vencimiento para administradores y un bot de IA integrado para brindar soporte técnico y resolver dudas frecuentes a los usuarios.
+- 📊 **Plataforma Financiera (Multitenant):** Aplicación web para la gestión integral de finanzas personales y control de gastos. Permite a los usuarios registrar múltiples cuentas bancarias reales, gestionar gastos fijos mensuales y visualizar reportes detallados y gráficos estadísticos de sus ingresos y egresos. *Stack: Angular, NestJS, Prisma, PostgreSQL.*
+- 💬 **WhatsApp CRM Multi-Agente & Bot (Iris):** Ecosistema integral de atención al cliente y automatización de cobranzas construido bajo una arquitectura de microservicios con **NestJS**. Funciona como un CRM completo que permite asignación y transferencia de chats entre múltiples agentes, envío de campañas masivas y sincronización bidireccional con **Zoho CRM** (creación automática de leads y actividades). Integra el microservicio independiente **Iris** (conectado a la **API de WhatsApp de Meta**), un "Cerebro IA" que identifica clientes vía documento de identidad, procesa pagos con QR y responde de forma dinámica.
+- 🍯 **Tsimane - E-commerce & Landing Page:** Plataforma web para la venta de miel de abeja 100% pura de la Amazonía boliviana. Incluye catálogo de productos, carrito de compras y una sección detallada sobre el proceso de recolección artesanal. 
+- 📍 **PopCo - Store Locator:** Aplicación web interactiva con integración de **Google Maps** para localizar puntos de venta físicos. Permite a los clientes buscar tiendas específicas, visualizar la ubicación exacta mediante pines y generar rutas de navegación directas mediante la función "Cómo llegar".
+- 🔐 **Code Mail - Auth Portal (Code Extractor):** Plataforma web segura diseñada para el acceso instantáneo a códigos de verificación de servicios (Netflix, Disney, Max, etc.) mediante **Google AI / Auth**. Los usuarios ingresan a través de un código de acceso privado para consultar bandejas. El sistema filtra y renderiza únicamente los One-Time Passcodes (OTP) del remitente oficial, protegiendo el resto de la bandeja de entrada.
 
 ### ⚡ Contacto & Redes
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/xrecm)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/xrecm)
+[![Portfolio](https://img.shields.io/badge/Website-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://xrecm.es)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:renechungara03@gmail.com)
